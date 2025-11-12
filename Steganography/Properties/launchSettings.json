@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "Steganography": {
+      "commandName": "Project",
+      "commandLineArgs": "-h -s \"D:\\IDE Projects\\Visual Studio 2022\\Steganography\\TestImages\\sample_5184×3456.bmp\" -d \"D:\\IDE Projects\\Visual Studio 2022\\Steganography\\OutImages\\out.bmp\" \"Very secret message, that nobody will ever get to know it was here.\""
+    },
+    "Профиль 1": {
+      "commandName": "Project",
+      "commandLineArgs": "-f -s \"D:\\IDE Projects\\Visual Studio 2022\\Steganography\\OutImages\\out.bmp\" -k 637716744258560"
+    }
+  }
+}
